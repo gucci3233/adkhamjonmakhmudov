@@ -4,10 +4,10 @@
 
 
 
-<p align="left"> <a href="https://github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula" alt="adkhamjonmakhmudov" /></a> </p>
+<p align="left"> <a href="https://github-profile-trophy-ma&rank=C-ma&row=1&column=7"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&rank=C-ma&theme=dracula" alt="adkhamjonmakhmudov" /></a> </p>
 
-- 👨‍💻 All of my projects are available in [https://github.com/adkhamjonmakhmudov](https://github.com/adkhamjonmakhmudov)
-
+<!-- - 👨‍💻 All of my projects are available in [https://github.com/adkhamjonmakhmudov](https://github.com/adkhamjonmakhmudov)
+ -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.leetcode.com/https://leetcode.com/adkhamjonmakmudov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/adkhamjonmakmudov" height="30" width="40" /></a>
