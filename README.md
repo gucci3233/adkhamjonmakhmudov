@@ -2,7 +2,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adkhamjonmakhmudov&label=Profile%20views&color=0e75b6&style=flat" alt="adkhamjonmakhmudov" /> </p>
 
-<p align="left"> <a href="https://github.com/adkhamjonmakhmudov/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adkhamjonmakhmudov" alt="adkhamjonmakhmudov" /></a> </p>
+
+
+<p align="left"> <a href="https://github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula" alt="adkhamjonmakhmudov" /></a> </p>
 
 - 👨‍💻 All of my projects are available in [https://github.com/adkhamjonmakhmudov](https://github.com/adkhamjonmakhmudov)
 
