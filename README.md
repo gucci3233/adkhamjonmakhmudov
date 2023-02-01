@@ -32,7 +32,8 @@ Python Backend Developer
 <a href="https://leetcode.com/adkhamjonmakmudov/">| **LeetCode**<img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Yu Shi | Medium" width="21px"/></a>
 ####
 ___
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-[![](https://visitcount.itsvg.in/api?id=adkhamjonmakhmudov&icon=z)](https://visitcount.itsvg.in)
-<img src="https://visitor-badge.glitch.me/badge?page_id=akhroruz" alt="akhroruz"/><a href="https://wakatime.com/badge/user/#2596be/project/#2596be"><img src="https://wakatime.com/badge/user/1db5173c-4f0f-41f5-907b-2b965e7ee215/project/42c35e8f-e5f0-422c-b74d-7398fa61faab.svg" alt="worktime"></a>
-
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=adkhamjonmakhmudov&label=Profile%20views&color=0e75b6&style=flat" alt="adkhamjonmakhmudov"/>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=adkhamjonmakhmudov" alt="adkhamjonmakhmudov"/>
+  <a href="https://wakatime.com/badge/user/1db5173c-4f0f-41f5-907b-2b965e7ee215/project/42c35e8f-e5f0-422c-b74d-7398fa61faab"><img src="https://wakatime.com/badge/user/1db5173c-4f0f-41f5-907b-2b965e7ee215/project/42c35e8f-e5f0-422c-b74d-7398fa61faab.svg" alt="wakatime"></a>
+</p>
