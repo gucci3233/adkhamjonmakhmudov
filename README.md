@@ -3,7 +3,7 @@ Python Backend Developer
 </h2> 
 
 # In progress:
-🔭 **I’m currently working on** [**Modme-api**<br>](https://github.com/akhroruz/modme_clone)
+🔭 **I’m currently working on** [**Modme-API**<br>](https://github.com/akhroruz/modme_clone)
 
 # 💻 Tech Stack:
 
